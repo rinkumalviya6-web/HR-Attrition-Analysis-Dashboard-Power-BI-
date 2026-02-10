@@ -50,7 +50,7 @@ The goal is to identify key factors contributing to employee turnover and provid
 ---
 
 ## Files Included
-- `dashboard1.png` – Dashboard preview image  
+- `dashboard2.png` – Dashboard preview image  
 - `Mobile dashboard.pbix` – Power BI dashboard file  
 - `README.md` – Project documentation  
 
